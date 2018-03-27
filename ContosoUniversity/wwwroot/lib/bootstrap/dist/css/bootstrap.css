@@ -1264,11 +1264,13 @@ h6 .small,
 }
 h1,
 .h1 {
-  font-size: 36px;
+  font-size: 100px;
 }
 h2,
 .h2 {
   font-size: 30px;
+  color: #314D3A;
+  font-family: Anton;
 }
 h3,
 .h3 {
@@ -4956,15 +4958,15 @@ a.badge:focus {
   margin-left: 3px;
 }
 .jumbotron {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  margin-bottom: 30px;
-  color: inherit;
-  background-color: #eee;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: #314D3A;
 }
 .jumbotron h1,
 .jumbotron .h1 {
-  color: inherit;
+    color: #FFF;
 }
 .jumbotron p {
   margin-bottom: 15px;
